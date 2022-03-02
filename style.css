@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+div{
+    background-color: rgb(255, 170, 170);
+    /* text-align: justify; */
+    /* text-transform: uppercase;
+    text-transform: lowercase;
+    text-transform: capitalize; */
+    text-decoration: overline;
+
+}
+
